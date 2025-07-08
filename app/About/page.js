@@ -18,7 +18,7 @@ export default function about() {
                         Welcome to our URL shortener — the simplest and most efficient way to shorten your links. We built this tool to help people and businesses create clean, trackable, and shareable URLs.
                     </p>
                     <p className="text-gray-700 text-lg leading-relaxed">
-                        Whether you're sharing links on social media, sending promotional messages, or tracking click-through rates, our service is designed to be fast, secure, and reliable.
+                        Whether you&apos;re sharing links on social media, sending promotional messages, or tracking click-through rates, our service is designed to be fast, secure, and reliable.
                     </p>
                     <p className="text-gray-700 text-lg leading-relaxed">
                         Built with ❤️ using the MERN stack and hosted on Vercel, our goal is to make your web navigation easier and smarter.

@@ -6,7 +6,7 @@ export default function NotFound() {
             <h1 className="text-6xl font-bold text-purple-700">404</h1>
             <p className="text-2xl mt-4 text-gray-700">Page Not Found</p>
             <p className="text-gray-500 mt-2">
-                The URL you're trying to reach doesn't exist or may have expired.
+                The URL you&apos;re trying to reach doesn&apos;t exist or may have expired.
             </p>
 
             <Link
